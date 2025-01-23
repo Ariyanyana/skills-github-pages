@@ -1,5 +1,5 @@
 # Ariyanyana, the Brazilian Monk
-
+![Buddha Statue](https://yourimageurl.com/statue.jpg)
 Welcome to my website! I am Ariyanyana, a Brazilian monk dedicated to the Dhamma. My journey is rooted in Buddhist teachings, and I aim to share insights, reflections, and resources to help others cultivate mindfulness, compassion, and wisdom.
 
 ## Explore the Dhamma
