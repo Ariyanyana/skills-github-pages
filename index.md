@@ -1,40 +1,29 @@
----
-layout: default
-title: Ariyañāṇa
----
+# Ariyanyana, the Brazilian Monk
 
-# Welcome to My Website
+Welcome to my website! I am Ariyanyana, a Brazilian monk dedicated to the Dhamma. My journey is rooted in Buddhist teachings, and I aim to share insights, reflections, and resources to help others cultivate mindfulness, compassion, and wisdom.
 
-Greetings! My name is **Ariyañāṇa**, a Buddhist monk from Brazil. This website serves as a space for sharing teachings, reflections, and resources related to Buddhism and mindfulness.
+## Explore the Dhamma
 
----
+Here, you'll find valuable resources to support your practice and deepen your understanding of the Buddha's teachings.
 
-## About Me
+### Dhamma Summaries
+Dive into concise and accessible summaries of key teachings.  
+[Read Dhamma Summaries](./dhamma-summaries)
 
-I was ordained as a monk to follow the path of wisdom, compassion, and inner peace. My journey is dedicated to practicing and sharing the Dhamma, helping others find clarity and liberation in their lives.
+### YouTube Teachings
+Watch video teachings and guided meditations on my YouTube channel. Here's one of the latest videos:  
 
----
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_HERE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+[Visit My YouTube Channel](https://www.youtube.com/@YourChannelHere)
 
-## Teachings and Reflections
+### Connect With Me  
+Follow me on social media for updates, insights, and more.  
 
-Here, you can explore articles, guided meditations, and thoughts on the following topics:
-- Mindfulness and Meditation
-- The Four Noble Truths
-- The Noble Eightfold Path
-- Loving-Kindness and Compassion
+- [Instagram](https://www.instagram.com/yourinstagramhandle)  
+- [Facebook](https://www.facebook.com/yourfacebookhandle)  
+- [Twitter](https://twitter.com/yourtwitterhandle)
 
-[Explore Teachings](/teachings) <!-- Create a 'teachings.md' file for this link -->
-
----
-
-## Connect with Me
-
-Feel free to reach out if you have questions or would like to learn more about Buddhism:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- [GitHub Profile](https://github.com/your-username)
-
-May you be well, happy, and peaceful.
+Thank you for visiting, and may your path be guided by the light of the Dhamma.
 
 ---
-
-> "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." – The Buddha
+*May all beings be happy and at peace.*
